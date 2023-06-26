@@ -1,0 +1,5 @@
+{
+	"csharp.format.enable": true,
+	"omnisharp.useModernNet": false,
+	"dotnet.inlayHints.enableInlayHintsForParameters": true
+}
